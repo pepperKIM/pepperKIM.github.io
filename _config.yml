@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "UTP-8"
+title                    : "페퍼킴의 코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "pepperKIM"
-description              : "An amazing website."
+description              : "코딩 공부중인 학생입니다."
 url                      : "https://pepperKIM.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
